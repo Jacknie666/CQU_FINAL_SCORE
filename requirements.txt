@@ -1,5 +1,7 @@
-numpy
-pillow
-beautifulsoup4
 selenium
 webdriver-manager
+beautifulsoup4
+smtplib
+requests
+json
+email
