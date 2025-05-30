@@ -1,6 +1,0 @@
-numpy
-scipy
-pillow
-beautifulsoup4
-selenium
-webdriver-manager
